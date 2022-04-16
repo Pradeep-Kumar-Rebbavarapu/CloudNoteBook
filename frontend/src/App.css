@@ -1,0 +1,15 @@
+.navbar-toggler-icon{
+  width:30px !important;
+  height:40px !important;
+}
+
+a,Link{
+  text-decoration:none !important;
+  list-style: none;
+}
+
+
+
+ ::-webkit-scrollbar{
+  width:0px
+}
